@@ -1,4 +1,5 @@
-METOT
+### METOT
+
 package com.example.geridenkestirme;
 
 import androidx.appcompat.app.AppCompatActivity;
